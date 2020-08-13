@@ -1,2 +1,2 @@
 # problems
-Problemss will be pushed here.(Leetcode, Codeforces, Hackerrank)
+Problems will be pushed here.(Leetcode, Codeforces, Hackerrank)
